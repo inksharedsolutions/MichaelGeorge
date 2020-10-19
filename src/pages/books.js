@@ -2,14 +2,14 @@ import React from 'react'
 import Layout from "../components/layout"
 import Banner from "../components/banner"
 import Book from '../assets/img/books/book_main.png'
-import Book2 from '../assets/img/books/book2.png'
-import Book3 from '../assets/img/books/book3.png'
-import Book4 from '../assets/img/books/book4.png'
-import Book5 from '../assets/img/books/book5.png'
-import Book6 from '../assets/img/books/book6.png'
-import Book7 from '../assets/img/books/book7.png'
-import Book8 from '../assets/img/books/book8.png'
-import Book9 from '../assets/img/books/book9.png'
+import Book2 from '../assets/img/books/Book2.png'
+import Book3 from '../assets/img/books/Book3.png'
+import Book4 from '../assets/img/books/Book4.png'
+import Book5 from '../assets/img/books/Book5.png'
+import Book6 from '../assets/img/books/Book6.png'
+import Book7 from '../assets/img/books/Book7.png'
+import Book8 from '../assets/img/books/Book8.png'
+import Book9 from '../assets/img/books/Book9.png'
 import { DiscussionEmbed } from "disqus-react"
 
 

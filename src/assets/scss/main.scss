@@ -1,0 +1,229 @@
+.main-section{
+	padding: 9rem 0;
+}
+
+.wrapper-heading-content{
+  &:after{
+  	content: '';
+    width: 85px;
+    height: 2px;
+    background: #feda57;
+    position: absolute;
+    margin: 12px 0;
+  }
+
+  h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 6em;
+  }
+
+}
+
+.btn-main-customize{
+    background: #292927;
+    border: none;
+    padding: 1rem 5rem;
+    margin-top: 37px;
+    a{
+    	color:#fff;
+    	background: #292927;
+	    border: none;
+	    padding: 1rem 0.8rem;
+	    margin-top: 37px;
+    }
+}
+
+.icon-auhtor{
+	img{
+		width: 62px;
+	    border-radius: 50px;
+	    border: 6px solid #cccccc;
+		margin:0;
+	}
+}
+
+.author-name-tagline{
+	position: absolute;
+    margin: 17px;
+    letter-spacing: 2px;
+    color: #deab1c;
+}
+   
+.author-fx{
+    text-transform: uppercase;
+    color: #292927;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+/*Main Bottom Section*/
+
+.main-bottom-section{
+    background: #eee;
+    padding: 43px;
+}
+
+.section-main-contents{
+    margin-top: 4em;
+}
+
+.main-bottom-wrapper{
+
+    padding: 3rem 0;
+    text-align: center;
+    h1{
+        &:after{
+            content: '';
+            width: 85px;
+            height: 2px;
+            background: #feda57;
+            position: absolute;
+            margin: 54px -177px;
+        }
+    }
+}
+
+.main-subcontent-fx{
+    color: #888888;
+    margin: 31px 0;
+    font-size: 16px;
+}
+
+
+/*Tiles */
+
+.tiles-height{
+    height: 250px;
+    background: #f3d09d;
+
+    img{
+        width: 250px;
+    }
+}
+
+.full-layout-boxstyle{
+    background: linear-gradient(to bottom, #417993 0%, #b3ccc3 100%);
+    padding: 20px;  
+}
+
+
+/*Overlapping Books*/
+
+.is-4by3{
+    padding-top: 89% !important;
+}
+
+
+/*icons logo*/
+.feautured-links-logo{
+
+    margin: 93px;
+    text-align: center;
+
+    li{
+
+        display: inline-block;
+        padding: 0 34px;
+
+        &:nth-child(2){
+            img{
+                position: relative;
+                top: -21px;
+            }
+        }
+
+    }
+    img{
+        width: 160px;
+        max-width: 100%;
+    }
+}
+
+.content{
+    font-size: 14px;
+    text-align: left;
+    color: #737171;
+}
+
+.btn-redirect{
+    a{
+        color: #c38a08;
+        text-transform: uppercase;
+        margin-left: 11px;
+        font-size: 11px;
+        text-decoration: underline;
+    }
+}
+
+.media-content{
+    text-transform: uppercase;
+}
+
+// parallax bottom
+.parallax-bottom {
+    background:linear-gradient(to bottom, #ffdc3f, #717272c7), url("../img/banner/parallax_banner.jpeg");
+    // background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
+
+
+.flex-container{
+    display: grid;
+    height: 60vh;
+    grid-template-columns: 50%;
+    justify-content: center;
+    align-items: center;
+
+    h1{
+        
+        &:before{
+            content: '';
+            width: 13%;
+            background: #fdd863;
+            position: relative;
+            display: block;
+            height: 4px;
+            margin: 7px 0px;
+        }
+        position: relative;
+        font-size: 37px;
+        margin: 0 3em;
+        color: #fff !important; 
+    }
+
+    &:before{
+        content: "QUOTE";
+        position: absolute;
+        font-size: 11em;
+        font-weight: 900;
+        text-transform: capitalize;
+        color: #dbf3e329;
+        text-transform: uppercase;
+        transform: translate(49%, 4%);
+    }
+}
+
+.italic-tag{
+    font-family: 'Fanwood Text', serif;
+    color: #8c8c8c;
+}
+
+.span-verse{
+    display: block;
+    font-size: 24px;
+    margin-top: 28px;
+    color: #ffffff !important   ;
+    &:before{
+        content: '';
+        width: 28%;
+        background: #e6e3e2;
+        position: relative;
+        display: inline-block;
+        height: 1px;
+        margin: 6px 36px;
+    }
+}

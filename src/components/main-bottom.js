@@ -83,7 +83,7 @@ const mainbottom = () =>{
 
 		<div class="feautured-links-logo">
 
-			<p>Michael George’s has been featured numerous times on...</p>
+			<p>Michael George has been featured numerous times on...</p>
 			
  			<ul>
  				<li><img alt="" src={amazon} /></li>

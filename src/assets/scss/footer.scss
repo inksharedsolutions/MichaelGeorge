@@ -1,7 +1,7 @@
 
 
 .footer-section{
-    padding: 3em 0;
+    padding: 4em 0;
     background: #3c3c3c;
 }
 
@@ -24,18 +24,18 @@
 	}
 	p{
 		font-size: 12px;
-	    margin-top: 0;
+	    margin-top: 20px;
 	    color: #737373;
 	    width: 550px;
 	}
 }
 
 .images-portray{
-	top: 0;
 	img{
-		width: 20rem;
+		width: 50%;
 	    max-width: 100%;
-	    position: relative;
+		// position: relative;
+		margin: 0 auto;
 	}
 }
 

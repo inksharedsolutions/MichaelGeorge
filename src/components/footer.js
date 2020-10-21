@@ -5,7 +5,7 @@ import Navlist from './links'
 import FooterLogo from '../assets/img/icon-logo/footer_logo.png'
 	
 const footer = (props) =>{
-	console.log(props.navList)
+
 	return(
 			<footer className="footer-section">
 				<div className="container">
@@ -96,7 +96,7 @@ const footer = (props) =>{
 								</a>
 
 								<a 
-									href="https://www.goodreads.com/book/show/49086230-bridge-to-no-good"
+									href="https://www.goodreads.com/book/show/48565589-horses-lemons-and-pretty-girls?ac=1&from_search=true&qid=kSb5IgGH1c&rank=2"
 									target="_blank"
 									rel="noopener noreferrer">
 

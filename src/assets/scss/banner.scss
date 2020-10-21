@@ -40,7 +40,7 @@
 	padding: 5rem 0;
 	&:before{
 	    content: '';
-	    background: #ffdc3f;
+	    background: #edffdf;
 	    top:0;
 	    width: 250px;
 	    height: 600px;
@@ -76,9 +76,11 @@
 
 .banner-ext-stream{
     img{
-        position: absolute;
+        position: relative;
+        right: 0;
+        left: 1em;
         width: 524px;
-        top: 178px;
+        top: 18px;
     }
 }
 

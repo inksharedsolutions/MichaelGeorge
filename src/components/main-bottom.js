@@ -41,20 +41,20 @@ const mainbottom = () =>{
 
 							      <div className="media-left">
 							        <figure className="image is-48x48">
-							          {/* <img alt="icon" src={icon} alt="Placeholder image" /> */}
+							          <img alt="icon" src={icon} alt="Placeholder image" />
 							        </figure>
 							      </div>
 
 							      <div className="media-content">
-							        <p className="title is-3">Horses Lemons</p>
-							        <p className="subtitle is-4">and Pretty Girls</p>
+							        <p className="title is-4">Michael George</p>
+							        <p className="subtitle is-6"></p>
 							      </div>
 							    </div>
 
 							    <div className="content">
 							      	<p>
 									  	Michael George’s Horses, Lemons, and Pretty Girls belongs to the road novel genre. To be more precise, it is an exemplar of the proletarian road novel. Like Kerouac’s iconic On the Road, it is the story of young men traveling across the United States in search of adventure and epiphany. Also like Kerouac’s novel, George’s story has the ring of autobiography.
-							      		<span className="btn-redirect"> <Link to="/about-the-book">Read More</Link></span>
+							      		<span className="btn-redirect"> <Link to="/books">Read More</Link></span>
 							      	</p>
 							    </div>
 							  </div>
@@ -83,7 +83,7 @@ const mainbottom = () =>{
 
 		<div class="feautured-links-logo">
 
-			<p>Valentine Cardinale has been featured numerous time on...</p>
+			<p>Michael George’s has been featured numerous times on...</p>
 			
  			<ul>
  				<li><img alt="" src={amazon} /></li>

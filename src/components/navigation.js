@@ -65,7 +65,7 @@ class Navigation extends React.Component {
 										src={MainLogo}
 									/>
 
-									<h1>Michael.</h1>
+									<h1>Michael George.</h1>
 								</Link>
 							</div>
 

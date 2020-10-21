@@ -27,8 +27,8 @@ const abouttheauthor= (props) =>{
 		<>
 			<span className="banr-tagline-fx">Michael George</span>
 			<h1 className="banr-header-fx">
-				About the
-				<span className="banr-spn-highlight">Book</span>
+				{/* About the */}
+				<span className="banr-spn-highlight">Books</span>
 			</h1>
 		</>
 	)
@@ -58,21 +58,6 @@ const abouttheauthor= (props) =>{
 									 <p>
 									 The young protagonist, Dave Sanders, travels with his friend, Ben, from the Midwest to the Southeast, “for the hell of it.” Sanders later travels on his own back in the Midwest and, near the novel’s end, all the way to San Francisco. Drifting through life, the protagonist seeks work and lodging wherever he can find it. Disdainful of owners and foremen, he remains true to his working-class roots. A typical description of the owner class is this: “men in business suits, screaming orders.” These roots are evident in the precise description of manual labor, whether tearing down drilling rigs near Fargo or removing bricks from box cars in Florida. 
 									 </p>
-									 <p>
-									 The most striking example is a sequence in which Sanders and his brother build an addition to a house. Though on its face this task sounds routine, it becomes a labor of love and high adventure. In contrast to the working-class ethos, he studies the field of computer programming and is split between his identity as a carpenter and programmer. Yet the novel includes moments of lyricism: “Then we left the beach for the hills behind it and found a small meadow near the back of a cove. It was surrounded by hills and vine-covered trees. The ground was covered with lush green grass, studded with spring’s wildflowers. Scattered among the trees, not yet ripe berries grew in thick dark patches. A cold spring bubbled out of a hillside, coming alive as a stream, only to meet a sudden death in the vast open sea.” 
-									 </p>
-									 <p>
-									 Though working class, the protagonist is not a libertarian with a firm belief in social—including racial—justice. He calls himself an “apathist…someone who doesn’t care what other people do as long as what they do doesn’t hurt anyone, and they don’t try to force what they do or believe onto anyone else.” 
-									 </p>
-									 <p>
-									 The novel is set in the sixties: careless use of alcohol; free sex, which turns out to be anything but free; restlessness; Vietnam. The protagonist unabashedly enjoys beer in the morning. Though a casual practitioner of promiscuity, he is a hopeless romantic. Though he searches for stability, he finds it difficult to stay in one place for long. Vietnam provides a disturbing undercurrent. 
-									 </p>
-									 <p>
-									 This novel, besides its road genesis, shines the light of democracy on the darkness of privilege and injustice. One of the preeminent virtues is the authenticity of the first-person voice. The protagonist hides nothing; he allows the reader access not only to his strengths but to his failings. His candor is linked to his childlike unmediated vision of paradise lost: corporate farms replacing the family farm of his childhood, the plague of bosses infecting the working-class ethos, and environmental degradation. 
-									 </p>
-									 <p>
-									 These issues aside, the most important thing is that this book is a good read as the reader avidly follows David Sanders on his adventures in expectation of epiphany, the outcome of his search for authenticity. 
-									 </p>
 									
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
@@ -82,7 +67,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Horses-Lemons-Pretty-Michael-George/dp/1643456083/ref=sr_1_1?keywords=9781643456089&qid=1571769414&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/horses-lemons-and-pretty-girls-michael-george/1100370313?ean=9781643456089">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Horses-Lemons-Pretty-Girls/Michael-George/9781643456089?id=8009965417365&_ga=2.26290101.948029403.1603093179-1770015116.1600996550">Books A Million</a></li>
@@ -116,7 +101,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Grass-Was-Greener-Michael-George/dp/164345692X/ref=sr_1_1?dchild=1&keywords=9781643456928&qid=1584116889&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/grass-was-greener-michael-george/1100924147?ean=9781643456928">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Grass-Was-Greener/Michael-George/9781643456928?id=8009965417365">Books A Million</a></li>
@@ -156,7 +141,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Rain-Barrels-Bridges-Michael-George/dp/1643457071/ref=sr_1_1?keywords=9781643457079&qid=1571761917&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/of-rain-barrels-and-bridges-michael-george/1005555041?ean=9781643457079">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Rain-Barrels-Bridges/Michael-George/9781643457079?id=8009965417365">Books A Million</a></li>
@@ -196,7 +181,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/1643457004/ref=sr_1_1?keywords=9781643457000&qid=1575392028&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/bridge-to-no-good-michael-george/1100924146?ean=9781643457000">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Bridge-No-Good/Michael-George/9781643457000?id=8009965417365">Books A Million</a></li>
@@ -230,7 +215,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/1643457012/ref=sr_1_1?keywords=9781643457017&qid=1576687729&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/finding-peri-grey-michael-george/1135622814?ean=9781643457017">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Finding-Peri-Grey/Michael-George/9781643457017?id=8009965417365">Books A Million</a></li>
@@ -254,9 +239,6 @@ const abouttheauthor= (props) =>{
 									
 									<p>Michael George's murder mystery, set in rural Minnesota, is masterfully plotted and peopled with sharply drawn characters. The latter include the protagonist, Mack Thomas, a recently retired - due to a back injury - rodeo bull rider, his struggling farmer father, and his uncle. These "common folk," unpretentious, ethical, and socially and environmentally conscious, are the heroes of this story. They are pitted against the retrograde system of corruption run by a banker (a local fallen from grace), a sheriff, and other forces from the dark side, all of whom conspire to turn the local wildlife refuge into a resort, a playground for the wealthy. These forces will do anything to achieve their nefarious ends, including financial malfeasance on a massive scale, poisoning Mack's father's organically grown crops, and even murder. The dark forces individually represent other societal ills such as spousal abuse.</p>
 									<p>The wildlife refuge, the last vestige of central Minnesota's environment in its once pristine state, is at the center of this tale. It contains fast disappearing wetlands, an abundance of wildlife, and Walden-like nature in its purest and most transcendental form, Thoreau personified. The novel, published in 2010, is prescient. The criminal conspiracy that would destroy this Midwest Walden serves as a cautionary tale that speaks to the United States in late 2018, a nation struggling under the weight of environmental degradation, mendacity in the public and private spheres, and corruption in all its myriad forms.</p>
-									<p>The heroes of this story, Mack, his father and uncle, and two women friends, embody the values and traditions that are the polar opposite of the dark forces. They are generous, empathetic, deeply moral against the hypocrisy - in the view of the main characters - of right-wing fundamentalism, quiet and reserved as opposed to the bluster of those on the side of darkness. It is almost as if Trump himself were lurking in the background of this story.</p>
-									<p>WHY A REFUGE manages to communicate these ideas without preaching. As a thriller, the plot's the thing. Suspense and plot twists and turns are in more than sufficient supply to keep the reader turning the pages. For many fans of murder mysteries, the novel is a one-sit-down read.</p>
-									<p>Other attractions include the poetic and deeply moving descriptions of the refuge, the spare and salty speech of the heroes, psychological believability, and authenticity of setting. Not everyone will side with the novel's implicit - and on occasion explicit - take on political and social issues, but there is more than enough of the "good stuff" to keep the reader engaged. This novel deserves five stars.</p>
 
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
@@ -266,7 +248,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George/dp/1648950353/ref=sr_1_1?dchild=1&keywords=9781648950353&qid=1590781261&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950353">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Refuge/Michael-George/9781648950353?id=8009965417365">Books A Million</a></li>
@@ -300,7 +282,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Save-Refuge-Michael-George/dp/1648950272/ref=sr_1_1?dchild=1&keywords=9781648950278&qid=1590085154&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/to-save-the-refuge-michael-george/1137033422?ean=9781648950278">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Save-Refuge/Michael-George/9781648950278?id=8009965417365">Books A Million</a></li>
@@ -339,7 +321,7 @@ const abouttheauthor= (props) =>{
 										</nav>
 
 										<nav className="booklinkBlocks">
-											<span>Purchase Paperbook :</span>
+											<span>Purchase Paperback :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Stories-Three-Brothers-Bud-George/dp/1648951864/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1600802194&sr=8-1">Amazon</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/stories-from-three-brothers-david-george/1137634675?ean=9781648951862">Barnes & Noble </a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Stories-From-Three-Brothers/Bud-George/9781648951862?id=8009965417365">Books A Million</a></li>

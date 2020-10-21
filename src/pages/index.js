@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import Main from '../components/main'
 import MainBottom  from '../components/main-bottom'
 import Newsletter  from '../components/newsletter'
-import ParallaxBottom from '../components/parallax-bottom'
+// import ParallaxBottom from '../components/parallax-bottom'
 import Banner from "../components/banner"
 
 const IndexPage = (props) => {
@@ -15,8 +15,8 @@ const IndexPage = (props) => {
 			<span className="banr-tagline-fx">Tagline</span>
 
 			<h1 className="front-banr-header-fx">
-				Many people have a lost love in their life,
-				<span className="banr-spn-highlight">but few ever find that lost love. This is the tale of one who did.</span>
+				Many people have a lost love in their life, but few ever find that lost love.
+				<span className="banr-spn-highlight">This is the tale of one who did.</span>
 
 				<p className="paragraph-content">
 					The story of starting lost, traveling through life’s trials, finding love, and learning how great home can be when you find it.
@@ -25,7 +25,7 @@ const IndexPage = (props) => {
 				<Link
 					key="banr-btn"
 					className="btn-link-banr button is-link" 
-					to="/about-the-book">Read More
+					to="/books">Read More
 				</Link>
 			</h1>
 		</>
@@ -36,7 +36,7 @@ const IndexPage = (props) => {
 	  		 <Banner bannerContext={bannerText}  defProps={props} />
 			 <Main/>
 			 <MainBottom />
-			 <ParallaxBottom/>
+			 {/* <ParallaxBottom/> */}
 			 <Newsletter />
 	  	</Layout>
   	)

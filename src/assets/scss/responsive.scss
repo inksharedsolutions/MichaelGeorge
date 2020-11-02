@@ -16,19 +16,13 @@
 	
 	.book-group{
 		h1{
-			// font-family: augusta-free !important;
-			font-weight: bold !important;
 			font-size: 3em;
-			text-transform: uppercase;
 		}
 	}
 
 	.other-books{
 		h1{
-			// font-family: augusta-free !important;
-			font-weight: bold !important;
 			font-size: 3em;
-			text-transform: uppercase;
 		}
 	}
 }
@@ -155,6 +149,23 @@
 }
 
 @media only screen and (max-width: 375px){
+	.book-group{
+		h1{
+			font-size: 2em;
+			&:after{
+				display: none;
+			}
+		}
+	}
+
+	.other-books{
+		h1{
+			font-size: 2em;
+			&:after{
+				display: none;
+			}
+		}
+	}
 	.front-banr-header-fx {
 		font-size: 30px !important;
 	}

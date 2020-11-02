@@ -41,6 +41,9 @@ const abouttheauthor= (props) =>{
 
 			<main className="wrapperMain">
 				<div className='container'>
+					<div className='book-group'>
+						<h1>Refuge</h1>
+					</div>
 					<div className="columns">
 
 							<div className="column">
@@ -147,7 +150,9 @@ const abouttheauthor= (props) =>{
 								</div>
 
 								</div>
-
+								<div className="other-books">
+									<h1>Other Books</h1>
+								</div>
 								<div className="columns">
 
 									<div className="column">

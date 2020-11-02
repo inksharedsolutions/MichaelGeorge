@@ -42,7 +42,7 @@ const abouttheauthor= (props) =>{
 			<main className="wrapperMain">
 				<div className='container'>
 					<div className='book-group'>
-						<h1>Refuge</h1>
+						<h1>Refuge Series</h1>
 					</div>
 					<div className="columns">
 

@@ -41,6 +41,171 @@ const abouttheauthor= (props) =>{
 
 			<main className="wrapperMain">
 				<div className='container'>
+					<div className="columns">
+
+							<div className="column">
+								<div className="bookImgContainer">
+									<img alt="main-book" src={Book6} />
+								</div>
+							</div>
+
+							<div className="column">
+								<section className="contentBook">
+									
+									<p>Michael George's murder mystery, set in rural Minnesota, is masterfully plotted and peopled with sharply drawn characters. The latter include the protagonist, Mack Thomas, a recently retired - due to a back injury - rodeo bull rider, his struggling farmer father, and his uncle. These "common folk," unpretentious, ethical, and socially and environmentally conscious, are the heroes of this story. They are pitted against the retrograde system of corruption run by a banker (a local fallen from grace), a sheriff, and other forces from the dark side, all of whom conspire to turn the local wildlife refuge into a resort, a playground for the wealthy. These forces will do anything to achieve their nefarious ends, including financial malfeasance on a massive scale, poisoning Mack's father's organically grown crops, and even murder. The dark forces individually represent other societal ills such as spousal abuse.</p>
+									<p>The wildlife refuge, the last vestige of central Minnesota's environment in its once pristine state, is at the center of this tale. It contains fast disappearing wetlands, an abundance of wildlife, and Walden-like nature in its purest and most transcendental form, Thoreau personified. The novel, published in 2010, is prescient. The criminal conspiracy that would destroy this Midwest Walden serves as a cautionary tale that speaks to the United States in late 2018, a nation struggling under the weight of environmental degradation, mendacity in the public and private spheres, and corruption in all its myriad forms.</p>
+
+										<nav className="booklinkBlocks">
+										    <span>Ebooks :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George-ebook/dp/B0891YNGN4/ref=sr_1_1?dchild=1&keywords=9781648950360&qid=1590781278&sr=8-1">Amazon</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/why-a-refuge/">Stratton Press</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950360">Barnes & Noble</a></li>
+										</nav>
+
+										<nav className="booklinkBlocks">
+											<span>Purchase Paperback :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George/dp/1648950353/ref=sr_1_1?dchild=1&keywords=9781648950353&qid=1590781261&sr=8-1">Amazon</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950353">Barnes & Noble </a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Refuge/Michael-George/9781648950353?id=8009965417365">Books A Million</a></li>
+										</nav>
+
+								</section>
+							</div>
+							
+						</div>
+
+						<div className="columns">
+
+							<div className="column">
+								<div className="bookImgContainer">
+									<img alt="main-book" src={Book4} />
+								</div>
+							</div>
+
+							<div className="column">
+								<section className="contentBook">
+									
+									<p>
+									After the murder of his fiancée, Mack Thomas leaves Minnesota and goes to his uncle’s ranch in Texas. While there, he learns that the death of his wife two years ago wasn’t an accident but murder. After getting a description of the murderer and knowing that it had something to do with a resort complex being built in a wildlife refuge in Minnesota, Mack returns to his home there. 
+									</p>
+									<p>
+									Once home, he learns that two boys have recently been murdered the same way his fiancée was. While discussing the murders with his friend, Dale Magee, the Clayborne County Sheriff, at one of the murder sites near a bridge being built, Dale offers Mack a job as a deputy sheriff and Mack accepts. Then, while they are at the bridge, Mack has a serious disagreement with the construction foreman. It was an incident the foreman couldn’t let go of.
+									</p>
+									<p>
+									On his first day on the job, Mack is ambushed and shot, but four days later, he’s back on the job, eager to find the killer of the boys, and almost as eager to find the killer of his wife. He also carries the hope that his wife’s killer will lead him to his fiancée’s ex-husband, someone Mack knows was involved in both of the murders of his wife and, two years later, of his fiancée.
+									</p>
+									
+										<nav className="booklinkBlocks">
+											<span>Ebooks :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Bridge-No-Good-George-Michael-ebook/dp/B08233W3YY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1575297669&sr=8-1">Amazon</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/bridge-to-no-good/">Stratton Press</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/bridge-to-no-good-michael-george/1100924146?ean=9781643457949">Barnes & Noble</a></li>
+										</nav>
+
+										<nav className="booklinkBlocks">
+											<span>Purchase Paperback :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/1643457004/ref=sr_1_1?keywords=9781643457000&qid=1575392028&sr=8-1">Amazon</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/bridge-to-no-good-michael-george/1100924146?ean=9781643457000">Barnes & Noble </a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Bridge-No-Good/Michael-George/9781643457000?id=8009965417365">Books A Million</a></li>
+										</nav>
+
+								</section>
+							</div>
+
+							</div>
+
+							<div className="columns">
+
+								<div className="column">
+									<div className="bookImgContainer">
+										<img alt="main-book" src={Book2} />
+									</div>
+								</div>
+
+								<div className="column">
+									<section className="contentBook">
+										
+										<p>
+										When Deputy Sheriff Mack Thomas is given the job of serving summons on people who have written checks which have overdrawn their accounts, he is extremely irate. He believes that doing this job makes the sheriff’s department little more than a collection agency. But he reluctantly accepts the job, which quickly leads him to a trail of corruption that leads him far beyond a few bounced checks. So he decides to continue doing the job, however much he hates it. He is led into a world of prostitution forced on young girls, kidnapping, and murder, with very high-ranking people involved. Ultimately, what he learns gives him the information he needs to solve the one crime that concerns him the most. 
+										</p>
+										
+											<nav className="booklinkBlocks">
+												<span>Ebooks :</span>
+												<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Grass-Was-Greener-Michael-George-ebook/dp/B085VLN33K/ref=sr_1_1?dchild=1&keywords=9781643459585&qid=1584116875&sr=8-1">Amazon</a></li>
+												<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/grass-was-greener/">Stratton Press</a></li>
+												<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/grass-was-greener-michael-george/1100924147?ean=9781643459585">Barnes & Noble</a></li>
+											</nav>
+
+											<nav className="booklinkBlocks">
+												<span>Purchase Paperback :</span>
+												<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Grass-Was-Greener-Michael-George/dp/164345692X/ref=sr_1_1?dchild=1&keywords=9781643456928&qid=1584116889&sr=8-1">Amazon</a></li>
+												<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/grass-was-greener-michael-george/1100924147?ean=9781643456928">Barnes & Noble </a></li>
+												<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Grass-Was-Greener/Michael-George/9781643456928?id=8009965417365">Books A Million</a></li>
+											</nav>
+
+									</section>
+								</div>
+
+								</div>
+
+								<div className="columns">
+
+									<div className="column">
+										<div className="bookImgContainer">
+											<img alt="main-book" src={Book7} />
+										</div>
+									</div>
+
+									<div className="column">
+										<section className="contentBook">
+											
+											<p>
+											Between three strange murders, constant poaching in the wild life refuge, and the planned protest against the resort that is destroying the wild life refuge, Mack Thomas has his hands full. That's just the beginning though. He receives a totally unexpected inheritance, which alone, is enough to change his life. Then another unexpected event occurs when someone suddenly becomes a huge part of his life. Someone who shouldn't be part of his life, but is now and forever will be. Then disaster strikes, and it changes everything, even though everything has already been changed.
+											</p>
+											
+												<nav className="booklinkBlocks">
+													<span>Ebooks :</span>
+													<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Save-Refuge-Michael-George-ebook/dp/B088JZ6CH7/ref=sr_1_1?dchild=1&keywords=9781648950285&qid=1589565117&sr=8-1">Amazon</a></li>
+													<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/to-save-the-refuge/">Stratton Press</a></li>
+													<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/to-save-the-refuge-michael-george/1137033422?ean=9781648950285">Barnes & Noble</a></li>
+												</nav>
+
+												<nav className="booklinkBlocks">
+													<span>Purchase Paperback :</span>
+													<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Save-Refuge-Michael-George/dp/1648950272/ref=sr_1_1?dchild=1&keywords=9781648950278&qid=1590085154&sr=8-1">Amazon</a></li>
+													<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/to-save-the-refuge-michael-george/1137033422?ean=9781648950278">Barnes & Noble </a></li>
+													<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Save-Refuge/Michael-George/9781648950278?id=8009965417365">Books A Million</a></li>
+												</nav>
+
+										</section>
+									</div>
+
+									</div>
+
+								<div className="columns">
+
+								<div className="column">
+									<div className="bookImgContainer">
+										<img alt="main-book" src={Book9} />
+									</div>
+								</div>
+
+								<div className="column">
+									<section className="contentBook">
+										
+										<p>
+											He was a man looking for a 'rush'. For him it was the hunt followed by the thrill of the kill. For most of his life, hunting and killing animals, expecially deer, provided it. It was fateful day when someone interfered with this rush, that he found a better one. A bigger and better rush came when the prey was human, and the ultimate rush came when the kill was up close and personal. The only thing standing in his way was the sheriff's department, and Mack Thomas and Dale Magee. And the only question was, could they stop him soon enough?
+										</p>
+										
+											<nav className="booklinkBlocks">
+												<span>Coming Soon...</span>
+											</nav>
+
+									</section>
+								</div>
+
+								</div>
+
 						<div className="columns">
 
 							<div className="column">
@@ -78,39 +243,7 @@ const abouttheauthor= (props) =>{
 							
 						</div>
 
-						<div className="columns">
-
-							<div className="column">
-								<div className="bookImgContainer">
-									<img alt="main-book" src={Book2} />
-								</div>
-							</div>
-
-							<div className="column">
-								<section className="contentBook">
-									
-									<p>
-									When Deputy Sheriff Mack Thomas is given the job of serving summons on people who have written checks which have overdrawn their accounts, he is extremely irate. He believes that doing this job makes the sheriff’s department little more than a collection agency. But he reluctantly accepts the job, which quickly leads him to a trail of corruption that leads him far beyond a few bounced checks. So he decides to continue doing the job, however much he hates it. He is led into a world of prostitution forced on young girls, kidnapping, and murder, with very high-ranking people involved. Ultimately, what he learns gives him the information he needs to solve the one crime that concerns him the most. 
-									</p>
-									
-										<nav className="booklinkBlocks">
-										    <span>Ebooks :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Grass-Was-Greener-Michael-George-ebook/dp/B085VLN33K/ref=sr_1_1?dchild=1&keywords=9781643459585&qid=1584116875&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/grass-was-greener/">Stratton Press</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/grass-was-greener-michael-george/1100924147?ean=9781643459585">Barnes & Noble</a></li>
-										</nav>
-
-										<nav className="booklinkBlocks">
-											<span>Purchase Paperback :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Grass-Was-Greener-Michael-George/dp/164345692X/ref=sr_1_1?dchild=1&keywords=9781643456928&qid=1584116889&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/grass-was-greener-michael-george/1100924147?ean=9781643456928">Barnes & Noble </a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Grass-Was-Greener/Michael-George/9781643456928?id=8009965417365">Books A Million</a></li>
-										</nav>
-
-								</section>
-							</div>
-							
-						</div>
+						
 
 						<div className="columns">
 
@@ -156,46 +289,6 @@ const abouttheauthor= (props) =>{
 
 							<div className="column">
 								<div className="bookImgContainer">
-									<img alt="main-book" src={Book4} />
-								</div>
-							</div>
-
-							<div className="column">
-								<section className="contentBook">
-									
-									<p>
-									After the murder of his fiancée, Mack Thomas leaves Minnesota and goes to his uncle’s ranch in Texas. While there, he learns that the death of his wife two years ago wasn’t an accident but murder. After getting a description of the murderer and knowing that it had something to do with a resort complex being built in a wildlife refuge in Minnesota, Mack returns to his home there. 
-									</p>
-									<p>
-									Once home, he learns that two boys have recently been murdered the same way his fiancée was. While discussing the murders with his friend, Dale Magee, the Clayborne County Sheriff, at one of the murder sites near a bridge being built, Dale offers Mack a job as a deputy sheriff and Mack accepts. Then, while they are at the bridge, Mack has a serious disagreement with the construction foreman. It was an incident the foreman couldn’t let go of.
-									</p>
-									<p>
-									On his first day on the job, Mack is ambushed and shot, but four days later, he’s back on the job, eager to find the killer of the boys, and almost as eager to find the killer of his wife. He also carries the hope that his wife’s killer will lead him to his fiancée’s ex-husband, someone Mack knows was involved in both of the murders of his wife and, two years later, of his fiancée.
-									</p>
-									
-										<nav className="booklinkBlocks">
-										    <span>Ebooks :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Bridge-No-Good-George-Michael-ebook/dp/B08233W3YY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1575297669&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/bridge-to-no-good/">Stratton Press</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/bridge-to-no-good-michael-george/1100924146?ean=9781643457949">Barnes & Noble</a></li>
-										</nav>
-
-										<nav className="booklinkBlocks">
-											<span>Purchase Paperback :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/dp/1643457004/ref=sr_1_1?keywords=9781643457000&qid=1575392028&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/bridge-to-no-good-michael-george/1100924146?ean=9781643457000">Barnes & Noble </a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Bridge-No-Good/Michael-George/9781643457000?id=8009965417365">Books A Million</a></li>
-										</nav>
-
-								</section>
-							</div>
-							
-						</div>
-
-						<div className="columns">
-
-							<div className="column">
-								<div className="bookImgContainer">
 									<img alt="main-book" src={Book5} />
 								</div>
 							</div>
@@ -226,72 +319,9 @@ const abouttheauthor= (props) =>{
 							
 						</div>
 
-						<div className="columns">
+						
 
-							<div className="column">
-								<div className="bookImgContainer">
-									<img alt="main-book" src={Book6} />
-								</div>
-							</div>
-
-							<div className="column">
-								<section className="contentBook">
-									
-									<p>Michael George's murder mystery, set in rural Minnesota, is masterfully plotted and peopled with sharply drawn characters. The latter include the protagonist, Mack Thomas, a recently retired - due to a back injury - rodeo bull rider, his struggling farmer father, and his uncle. These "common folk," unpretentious, ethical, and socially and environmentally conscious, are the heroes of this story. They are pitted against the retrograde system of corruption run by a banker (a local fallen from grace), a sheriff, and other forces from the dark side, all of whom conspire to turn the local wildlife refuge into a resort, a playground for the wealthy. These forces will do anything to achieve their nefarious ends, including financial malfeasance on a massive scale, poisoning Mack's father's organically grown crops, and even murder. The dark forces individually represent other societal ills such as spousal abuse.</p>
-									<p>The wildlife refuge, the last vestige of central Minnesota's environment in its once pristine state, is at the center of this tale. It contains fast disappearing wetlands, an abundance of wildlife, and Walden-like nature in its purest and most transcendental form, Thoreau personified. The novel, published in 2010, is prescient. The criminal conspiracy that would destroy this Midwest Walden serves as a cautionary tale that speaks to the United States in late 2018, a nation struggling under the weight of environmental degradation, mendacity in the public and private spheres, and corruption in all its myriad forms.</p>
-
-										<nav className="booklinkBlocks">
-										    <span>Ebooks :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George-ebook/dp/B0891YNGN4/ref=sr_1_1?dchild=1&keywords=9781648950360&qid=1590781278&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/why-a-refuge/">Stratton Press</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950360">Barnes & Noble</a></li>
-										</nav>
-
-										<nav className="booklinkBlocks">
-											<span>Purchase Paperback :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George/dp/1648950353/ref=sr_1_1?dchild=1&keywords=9781648950353&qid=1590781261&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950353">Barnes & Noble </a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Refuge/Michael-George/9781648950353?id=8009965417365">Books A Million</a></li>
-										</nav>
-
-								</section>
-							</div>
-							
-						</div>
-
-						<div className="columns">
-
-							<div className="column">
-								<div className="bookImgContainer">
-									<img alt="main-book" src={Book7} />
-								</div>
-							</div>
-
-							<div className="column">
-								<section className="contentBook">
-									
-									 <p>
-									 Between three strange murders, constant poaching in the wild life refuge, and the planned protest against the resort that is destroying the wild life refuge, Mack Thomas has his hands full. That's just the beginning though. He receives a totally unexpected inheritance, which alone, is enough to change his life. Then another unexpected event occurs when someone suddenly becomes a huge part of his life. Someone who shouldn't be part of his life, but is now and forever will be. Then disaster strikes, and it changes everything, even though everything has already been changed.
-									 </p>
-									
-										<nav className="booklinkBlocks">
-										    <span>Ebooks :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Save-Refuge-Michael-George-ebook/dp/B088JZ6CH7/ref=sr_1_1?dchild=1&keywords=9781648950285&qid=1589565117&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/to-save-the-refuge/">Stratton Press</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/to-save-the-refuge-michael-george/1137033422?ean=9781648950285">Barnes & Noble</a></li>
-										</nav>
-
-										<nav className="booklinkBlocks">
-											<span>Purchase Paperback :</span>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Save-Refuge-Michael-George/dp/1648950272/ref=sr_1_1?dchild=1&keywords=9781648950278&qid=1590085154&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/to-save-the-refuge-michael-george/1137033422?ean=9781648950278">Barnes & Noble </a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Save-Refuge/Michael-George/9781648950278?id=8009965417365">Books A Million</a></li>
-										</nav>
-
-								</section>
-							</div>
-							
-						</div>
+						
 
 						<div className="columns">
 
@@ -332,29 +362,7 @@ const abouttheauthor= (props) =>{
 							
 						</div>
 
-						<div className="columns">
-
-							<div className="column">
-								<div className="bookImgContainer">
-									<img alt="main-book" src={Book9} />
-								</div>
-							</div>
-
-							<div className="column">
-								<section className="contentBook">
-									
-									 <p>
-									 	  He was a man looking for a 'rush'. For him it was the hunt followed by the thrill of the kill. For most of his life, hunting and killing animals, expecially deer, provided it. It was fateful day when someone interfered with this rush, that he found a better one. A bigger and better rush came when the prey was human, and the ultimate rush came when the kill was up close and personal. The only thing standing in his way was the sheriff's department, and Mack Thomas and Dale Magee. And the only question was, could they stop him soon enough?
-									 </p>
-									
-										<nav className="booklinkBlocks">
-										    <span>Coming Soon...</span>
-										</nav>
-
-								</section>
-							</div>
-							
-						</div>
+						
 							
 						<div className="commentSection" >
 						  <DiscussionEmbed {...disqusConfig} />

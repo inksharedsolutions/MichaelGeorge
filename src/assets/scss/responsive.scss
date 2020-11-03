@@ -146,6 +146,31 @@
 	.front-banr-header-fx {
 		font-size: 39px !important;
 	}
+	.book-group{
+		h1{
+			font-size: 3em !important;
+		}
+	}
+
+	.other-books{
+		h1{
+			font-size: 3em !important;
+		}
+	}
+}
+
+@media only screen and (max-width: 450px){
+	.book-group{
+		h1{
+			font-size: 3em !important;
+		}
+	}
+
+	.other-books{
+		h1{
+			font-size: 3em !important;
+		}
+	}
 }
 
 @media only screen and (max-width: 375px){

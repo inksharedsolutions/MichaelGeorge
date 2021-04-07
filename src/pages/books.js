@@ -61,7 +61,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George-ebook/dp/B0891YNGN4/ref=sr_1_1?dchild=1&keywords=9781648950360&qid=1590781278&sr=8-1">Amazon</a></li>
-// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/why-a-refuge/">Stratton Press</a></li>
+											{/*<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/why-a-refuge/">Stratton Press</a></li>*/}
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950360">Barnes & Noble</a></li>
 										</nav>
 

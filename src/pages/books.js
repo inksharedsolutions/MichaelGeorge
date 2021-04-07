@@ -61,7 +61,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Why-Refuge-Michael-George-ebook/dp/B0891YNGN4/ref=sr_1_1?dchild=1&keywords=9781648950360&qid=1590781278&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/why-a-refuge/">Stratton Press</a></li>
+// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/why-a-refuge/">Stratton Press</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/why-a-refuge-michael-george/1100370260?ean=9781648950360">Barnes & Noble</a></li>
 										</nav>
 
@@ -101,7 +101,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 											<span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Bridge-No-Good-George-Michael-ebook/dp/B08233W3YY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1575297669&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/bridge-to-no-good/">Stratton Press</a></li>
+// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/bridge-to-no-good/">Stratton Press</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/bridge-to-no-good-michael-george/1100924146?ean=9781643457949">Barnes & Noble</a></li>
 										</nav>
 
@@ -135,7 +135,7 @@ const abouttheauthor= (props) =>{
 											<nav className="booklinkBlocks">
 												<span>Ebooks :</span>
 												<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Grass-Was-Greener-Michael-George-ebook/dp/B085VLN33K/ref=sr_1_1?dchild=1&keywords=9781643459585&qid=1584116875&sr=8-1">Amazon</a></li>
-												<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/grass-was-greener/">Stratton Press</a></li>
+// 												<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/grass-was-greener/">Stratton Press</a></li>
 												<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/grass-was-greener-michael-george/1100924147?ean=9781643459585">Barnes & Noble</a></li>
 											</nav>
 
@@ -168,7 +168,7 @@ const abouttheauthor= (props) =>{
 												<nav className="booklinkBlocks">
 													<span>Ebooks :</span>
 													<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Save-Refuge-Michael-George-ebook/dp/B088JZ6CH7/ref=sr_1_1?dchild=1&keywords=9781648950285&qid=1589565117&sr=8-1">Amazon</a></li>
-													<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/to-save-the-refuge/">Stratton Press</a></li>
+// 													<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/to-save-the-refuge/">Stratton Press</a></li>
 													<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/to-save-the-refuge-michael-george/1137033422?ean=9781648950285">Barnes & Noble</a></li>
 												</nav>
 
@@ -200,8 +200,25 @@ const abouttheauthor= (props) =>{
 										</p>
 										
 											<nav className="booklinkBlocks">
-												<span>Coming Soon...</span>
-											</nav>
+										    <span>Ebooks :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Without-Refuge-Michael-George-ebook/dp/B08QQP3NGT/ref=sr_1_1?dchild=1&keywords=9781648952692&qid=1608759558&sr=8-1">Amazon</a></li>
+// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/horses-lemons-and-pretty-girls/">Stratton Press</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/without-refuge-michael-george/1138474002?ean=9781648952692">Barnes & Noble</a></li>
+										</nav>
+		
+										<nav className="booklinkBlocks">
+											<span>Purchase Paperback :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Without-Refuge-Michael-George/dp/1648952682/ref=sr_1_1?dchild=1&keywords=9781648952685&qid=1608759582&sr=8-1">Amazon</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/without-refuge-michael-george/1138474002?ean=9781648952685">Barnes & Noble </a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Without-Refuge/Michael-George/9781648952685?id=8178155473428">Books A Million</a></li>
+										</nav>
+		
+										<nav className="booklinkBlocks">
+											<span>Hardcover :</span>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Without-Refuge-Michael-George/dp/1648952704/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1608759582&sr=8-1">Amazon</a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/without-refuge-michael-george/1138474002?ean=9781648952708">Barnes & Noble </a></li>
+											<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Without-Refuge/Michael-George/9781648952708?id=8178155473428">Books A Million</a></li>
+										</nav>
 
 									</section>
 								</div>
@@ -232,7 +249,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Horses-Lemons-Pretty-Michael-George-ebook/dp/B07Z8GMLHN/ref=sr_1_1?keywords=9781643457826&qid=1571762254&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/horses-lemons-and-pretty-girls/">Stratton Press</a></li>
+// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/horses-lemons-and-pretty-girls/">Stratton Press</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/horses-lemons-and-pretty-girls-michael-george/1100370313?ean=9781643457826">Barnes & Noble</a></li>
 										</nav>
 
@@ -274,7 +291,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Rain-Barrels-Bridges-Michael-George-ebook/dp/B07Z8FG7YN/ref=sr_1_1?keywords=9781643457741&qid=1571761903&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/of-rain-barrels-and-bridges/">Stratton Press</a></li>
+// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/of-rain-barrels-and-bridges/">Stratton Press</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/of-rain-barrels-and-bridges-michael-george/1005555041?ean=9781643457741">Barnes & Noble</a></li>
 										</nav>
 
@@ -308,7 +325,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Finding-Peri-Grey-Michael-George-ebook/dp/B082VLNBXW/ref=sr_1_1?keywords=9781643458335&qid=1576687700&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/finding-peri-grey/">Stratton Press</a></li>
+// 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/finding-peri-grey/">Stratton Press</a></li>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/finding-peri-grey-michael-george/1135622814?ean=9781643458335">Barnes & Noble</a></li>
 										</nav>
 
